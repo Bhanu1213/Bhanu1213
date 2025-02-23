@@ -1,5 +1,5 @@
 - 👋 Hi, I’m bhanuprakash
-- 👀 I’m interested in web development and ai&ml
+- 👀 I’m interested learning new things
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on MNC's
 - 📫 How to reach me bhanuprakash.60h@gmail.com
