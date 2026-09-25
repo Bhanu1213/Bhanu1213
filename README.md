@@ -1,7 +1,7 @@
 - 👋 Hi, I’m bhanuprakash
 - 👀 I’m interested learning new things
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on MNC's
+- 💞️ I’m looking to work on MNC'st
 - 📫 How to reach me bhanuprakash.60h@gmail.com
 - 😄 Pronouns: he/him
 
